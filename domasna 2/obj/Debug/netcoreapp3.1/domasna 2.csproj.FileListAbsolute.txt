@@ -1,0 +1,11 @@
+C:\Users\BazeJbT\Desktop\domasna c# 1\domasna\domasna 2\bin\Debug\netcoreapp3.1\domasna 2.exe
+C:\Users\BazeJbT\Desktop\domasna c# 1\domasna\domasna 2\bin\Debug\netcoreapp3.1\domasna 2.deps.json
+C:\Users\BazeJbT\Desktop\domasna c# 1\domasna\domasna 2\bin\Debug\netcoreapp3.1\domasna 2.runtimeconfig.json
+C:\Users\BazeJbT\Desktop\domasna c# 1\domasna\domasna 2\bin\Debug\netcoreapp3.1\domasna 2.runtimeconfig.dev.json
+C:\Users\BazeJbT\Desktop\domasna c# 1\domasna\domasna 2\bin\Debug\netcoreapp3.1\domasna 2.dll
+C:\Users\BazeJbT\Desktop\domasna c# 1\domasna\domasna 2\bin\Debug\netcoreapp3.1\domasna 2.pdb
+C:\Users\BazeJbT\Desktop\domasna c# 1\domasna\domasna 2\obj\Debug\netcoreapp3.1\domasna 2.csprojAssemblyReference.cache
+C:\Users\BazeJbT\Desktop\domasna c# 1\domasna\domasna 2\obj\Debug\netcoreapp3.1\domasna 2.AssemblyInfoInputs.cache
+C:\Users\BazeJbT\Desktop\domasna c# 1\domasna\domasna 2\obj\Debug\netcoreapp3.1\domasna 2.AssemblyInfo.cs
+C:\Users\BazeJbT\Desktop\domasna c# 1\domasna\domasna 2\obj\Debug\netcoreapp3.1\domasna 2.dll
+C:\Users\BazeJbT\Desktop\domasna c# 1\domasna\domasna 2\obj\Debug\netcoreapp3.1\domasna 2.pdb
